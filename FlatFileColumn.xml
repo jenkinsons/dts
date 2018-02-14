@@ -1,0 +1,8 @@
+<DTS:FlatFileColumn xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+DTS:ColumnType="Delimited"
+DTS:ColumnDelimiter="$.FlatFileColumn.ColumnDelimiter"
+DTS:DataType="$.FlatFileColumn.DataType"
+DTS:TextQualified="$.FlatFileColumn.TextQualified"
+DTS:ObjectName="$.FlatFileColumn.ObjectName"
+DTS:DTSID="{$.FlatFileColumn.DTSID}"
+DTS:CreationName="" />
